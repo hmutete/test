@@ -1,8 +1,7 @@
 <?php
 echo "test one two";
-<<<<<<< HEAD
-//test
 
+//test
 ///weeee
->>>>>>> test
+
 ?>
